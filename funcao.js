@@ -48,7 +48,7 @@ function verificar(){
     }
 }
 
-//Clean the form.
+//Cleaner of the form.
 function limpar(){
     document.getElementById("newForm").reset();
     var res = document.getElementById('res')
